@@ -1,13 +1,11 @@
-# pengalaman-belajar
+# Pengalaman Belajar di Dicoding
 
-Pengalaman Belajar di Dicoding
+**Minggu, 08 Februari 2026**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-Minggu, 08 Februari 2026
-belajar kelas memulai Pemrograman Java (Progress 21%)
-* Belajar tentang Apa itu Java dan alasan menggunakannya
-* Belajar tools yang dapat digunakan untuk menjaankan bahasa program Java
-
-Senin, 09 Februari 2026
+**Senin, 09 Februari 2026**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
